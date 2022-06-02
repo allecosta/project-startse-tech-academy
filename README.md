@@ -20,37 +20,37 @@ Altere as animações, adicione um contexto interessante para o site, como por e
 </h2>
 
 <h2 align="center">
-  <img width="660px" height="300" src="assets/media/02.06.2022_00.02.28_REC.gif">
+  <img width="900px" height="400" src="assets/media/02.06.2022_00.02.28_REC.gif">
 </h2>
 
-<!--![video](assets/media/02.06.2022_00.02.28_REC.gif)-->
+<!--![gif](assets/media/02.06.2022_00.02.28_REC.gif)-->
 ---
 
-<h4 align="left">
-  Home
-</h4>
+<h3 align="left">
+  Home 
+</h3>
 
 ![Resultado de momento do projeto](assets/media/home.png)
 
 
 
-<h4 align="left">
-  Startse
-</h4>
+<h3 align="left">
+  Startse 
+</h3>
 
 ![Resultado de momento do projeto](assets/media/startse.png)
 
 ![Resultado de momento do projeto](assets/media/startse2.png)
 
-<h4 align="left">
-  Cursos - Conhecimento é poder
-</h4>
+<h3 align="left">
+  Learning
+</h3>
 
 ![Resultado de momento do projeto](assets/media/tech-academy.png)
 
-<h4 align="left">
+<h3 align="left">
   Footer
-</h4>
+</h3>
 
 ![Resultado de momento do projeto](assets/media/footer.png)
 
