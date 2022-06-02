@@ -19,9 +19,11 @@ Altere as animações, adicione um contexto interessante para o site, como por e
   Projeto Finalizado :-)
 </h2>
 
-![video](assets/media/02.06.2022_00.02.28_REC.mp4)
----
+<h2 align="center">
+  <img width="660px" height="300" src="assets/media/02.06.2022_00.02.28_REC.gif">
+</h2>
 
+<!--![video](assets/media/02.06.2022_00.02.28_REC.gif)-->
 ---
 
 <h4 align="left">
