@@ -16,7 +16,7 @@ Altere as animações, adicione um contexto interessante para o site, como por e
 <br>
 
 <h2 align="center">
-  Projeto Finalizado :-)
+  Projeto :-)
 </h2>
 
 <h2 align="center">
